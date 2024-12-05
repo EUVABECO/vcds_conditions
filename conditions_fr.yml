@@ -12,3 +12,15 @@ en:
         preuve biologique est nécessaire (RT-PCR ou test antigénique) pour chaque
         épisode.'
       C-991: Date de l'avant-avant-dernier antécédent de covid 19
+    Other infections:
+      C-632: Date du dernier antécédent de coqueluche
+      H-699: Pour cocher ce choix, il faut que le diagnostic de dengue soit documenté
+        et qu'il ait été prouvé par un test virologique réalisé lors de la survenue
+        de le maladie (voir le dossier médical et demandez l'aide de votre médecin).
+      H-632: Il faut être certain qu'il s'agit bien d'une coqueluche (prouvée par
+        un test biologique, à vérifier avec votre médecin). On estime qu'une personne
+        qui a eu la coqueluche est protégée contre la survenue d'une nouvelle infection
+        coquelucheuse pendant environ 10 ans. Lorsque cette case est cochée, on considère
+        que la vaccination n'est pas nécessaire. Si la maladie est survenue avant
+        l'âge de deux ans, le programme vaccinal est poursuivi normalement.
+      C-699: Antécédent de dengue confirmé par la détection du virus
