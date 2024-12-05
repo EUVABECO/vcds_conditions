@@ -3,15 +3,15 @@ en:
     Biometric data:
     Lost vaccination record:
     Other:
-  Medical history:
-    COVID-19:
+  Medical history: "Medical history"
+    COVID-19: "COVID-19"
       C-919: "Date of last COVID-19"
       H-919: "Biological evidence is required (RT-PCR or antigenic test). Positive serology indicates previous contact with the virus"
       C-969: "Date of penultimate COVID-19"
       H-969: "To be completed if you have had two or three separate documented infections of covid 19: biological evidence is required (RT-PCR or antigenic test) for each episode."
       C-991: "Date of antepenultimate COVID-19"
       H-991: "To be completed if you have had three separate documented infections of covid 19: biological evidence is required (RT-PCR or antigenic test) for each episode."
-    Other infections:
+    Other infections: "Other infections"
       C-632: "Date of last history of pertussis"
       H-632: "You must be sure that it is pertussis (proven by a biological test, check with your doctor). It is estimated that a person who has had pertussis is protected from getting a new pertussis infection for about 10 years. If this box is checked, vaccination is not considered necessary. If the disease occurred before the age of two, the vaccination program is continued as usual."
       C-699: "History of dengue confirmed by virus detection"
