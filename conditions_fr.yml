@@ -1,1 +1,14 @@
-{}
+en:
+  Medical history:
+    COVID-19:
+      H-991: 'En cas de trois infections distinctes et documentées de covid 19 : une
+        preuve biologique est nécessaire (RT-PCR ou test antigénique) pour chaque
+        épisode.'
+      C-919: Date du dernier antécédent de covid 19
+      H-919: Une preuve biologique est nécessaire (RT-PCR ou test antigénique). Une
+        sérologie positive témoigne d'un contact antérieur avec le virus
+      C-969: Date de l'avant-dernier antécédent de covid 19
+      H-969: 'En cas de deux infections distinctes et documentées de covid 19 : une
+        preuve biologique est nécessaire (RT-PCR ou test antigénique) pour chaque
+        épisode.'
+      C-991: Date de l'avant-avant-dernier antécédent de covid 19
